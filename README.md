@@ -1,0 +1,1 @@
+# bash-dollar-quote-fix
